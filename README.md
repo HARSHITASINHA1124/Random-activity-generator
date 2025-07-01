@@ -61,9 +61,13 @@ random-task-generator/
 ---
 
 ## 🧠 How It Works
+
 --> On visiting the homepage, a random activity is fetched from the API.
+
 --> Users can filter activities by type or number of participants using the dropdowns.
+
 --> Submitting the form sends a POST request to fetch a filtered activity.
+
 --> If no activity is found, an error message is displayed.
 
 ---
