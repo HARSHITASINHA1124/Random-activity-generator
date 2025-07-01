@@ -1,6 +1,4 @@
-# Random-activity-generator
-
-# 🎲 Random Task Generator
+# 🎲 Random Activity Generator
 
 Tired of being bored? This fun web app fetches **random activities** based on your preferences (like type of activity and number of participants) using the Bored API. Whether you're alone or with friends, it finds something fun for you to do!
 
